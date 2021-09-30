@@ -1,0 +1,15 @@
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.exe
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.deps.json
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.runtimeconfig.json
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.runtimeconfig.dev.json
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.dll
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ref\ProblemaMochilaII.dll
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\bin\Debug\net5.0\ProblemaMochilaII.pdb
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.AssemblyInfoInputs.cache
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.AssemblyInfo.cs
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.csproj.CoreCompileInputs.cache
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.dll
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ref\ProblemaMochilaII.dll
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.pdb
+C:\Users\E4J2\source\repos\ProblemaMochilaII\ProblemaMochilaII\obj\Debug\net5.0\ProblemaMochilaII.genruntimeconfig.cache
